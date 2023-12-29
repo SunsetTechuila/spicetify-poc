@@ -1,0 +1,6 @@
+[
+  {
+    "type": "extension",
+    "main": "fartify.js"
+  }
+]

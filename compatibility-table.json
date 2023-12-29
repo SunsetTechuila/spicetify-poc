@@ -1,0 +1,26 @@
+{
+  "legacy": {
+    "Spotify": {
+      "max": "1.2.0"
+    },
+    "Spicetify": {
+      "max": "2.28.0"
+    }
+  },
+  "dev": {
+    "Spotify": "latest",
+    "Spicetify": "latest"
+  },
+  "main": {
+    "Spotify": {
+      "min": "1.2.14"
+    },
+    "Spicetify": {
+      "min": "2.28.0"
+    }
+  },
+  "v1": {
+    "Spotify": "1.2.26",
+    "Spicetify": "2.28.1"
+  }
+}
